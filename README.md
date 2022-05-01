@@ -1,0 +1,2 @@
+# Nop
+Ansible practice
